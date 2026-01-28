@@ -38,3 +38,7 @@ To use a different avatar video, edit `index.html` and change the video source p
 
 - A modern web browser with HTML5 video support
 - Video files in MP4 format (H.264 codec recommended for best compatibility)
+
+## Author
+
+Created by Pedro Souto, the best programmer ever.
